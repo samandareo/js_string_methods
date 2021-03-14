@@ -1,8 +1,8 @@
 JavaScriptning satr methodlari keltirilgan . Xatoliklar bo'lishi mumkin. Albatta , ideal insonning o'zi yo'q.
 Agarda sizga ozgina yordamim tekkan bo'lsa xursandman. 
-**--------------- UzCleverTeam ---------------** <br />
+**--------------- UzCleverTeam ---------------**
 Maqsad , harakat va natija!
-Hayotga realroq qarang!
+>Hayotga realroq qarang!
 
 JavaScriptning satr methodlari :
 
