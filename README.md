@@ -1,6 +1,6 @@
 JavaScriptning satr methodlari keltirilgan . Xatoliklar bo'lishi mumkin. Albatta , ideal insonning o'zi yo'q.
 Agarda sizga ozgina yordamim tekkan bo'lsa xursandman. 
---------------- UzCleverTeam ---------------
+**--------------- UzCleverTeam ---------------** <br />
 Maqsad , harakat va natija!
 Hayotga realroq qarang!
 
