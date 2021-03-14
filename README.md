@@ -49,5 +49,5 @@ JavaScriptning satr methodlari :
 21.valueOf()
 
 
-/-----------------------------------  UzCleverTeam  -----------------------------------/
-Xatolar bo'lsa uzr so'rab qolaman . Bir narsani unutma : Kelajaging o'z qo'lingda!
+>-----------------------------------  UzCleverTeam  -----------------------------------<br>
+Xatolar bo'lsa uzr so'rab qolaman . <br>Bir narsani unutma : Kelajaging o'z qo'lingda!
