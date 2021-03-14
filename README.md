@@ -1,5 +1,5 @@
 JavaScriptning satr methodlari keltirilgan . Xatoliklar bo'lishi mumkin. Albatta , ideal insonning o'zi yo'q.<br>
-Agarda sizga ozgina yordamim tekkan bo'lsa xursandman.<br> 
+<p style=" text-align : center">Agarda sizga ozgina yordamim tekkan bo'lsa xursandman.,/p><br> 
 **--------------- UzCleverTeam ---------------**<br>
 Maqsad , harakat va natija!<br>
 >Hayotga realroq qarang!
