@@ -1,7 +1,7 @@
 JavaScriptning satr methodlari keltirilgan . Xatoliklar bo'lishi mumkin. Albatta , ideal insonning o'zi yo'q.
 Agarda sizga ozgina yordamim tekkan bo'lsa xursandman. 
 **--------------- UzCleverTeam ---------------**<br>
-Maqsad , harakat va natija!
+Maqsad , harakat va natija!<br>
 >Hayotga realroq qarang!
 
 JavaScriptning satr methodlari :
