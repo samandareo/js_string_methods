@@ -2,7 +2,7 @@ JavaScriptning satr methodlari keltirilgan . Xatoliklar bo'lishi mumkin. Albatta
 Agarda sizga ozgina yordamim tekkan bo'lsa xursandman.<br> 
 **--------------- UzCleverTeam ---------------**<br>
 Maqsad , harakat va natija!<br>
->Hayotga realroq qarang!
+>Hayotga realroq qarang!!!
 
 JavaScriptning satr methodlari :
 
