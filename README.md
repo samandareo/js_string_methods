@@ -46,7 +46,7 @@ JavaScriptning satr methodlari :
 
 20.trim()
 
-21.valueOf(
+21.valueOf()
 
 
 >-----------------------------------  UzCleverTeam  -----------------------------------<br>
